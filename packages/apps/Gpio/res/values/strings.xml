@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+       <string name="app_name">gpio</string>
+       <string name="value">set value</string>
+       <string name="hint">Please input a value...</string>
+       <string name="export">export pin</string>
+       <string name="unexport">unexport pin</string>
+       <string name="direction">set direction</string>
+       <string name="pin">pin</string>
+    </resources>
